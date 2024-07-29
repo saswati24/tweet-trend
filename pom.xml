@@ -11,7 +11,7 @@
 	<groupId>com.valaxy</groupId>
 	<artifactId>demo-workshop</artifactId>
 	<version>2.1.4</version>
-	<name>demo-workshop-2.1.4.jar</name>
+	<name>demo-workshop-2.1.4</name>
 	<packaging>jar</packaging>
 	<description>Demo project for Spring Boot</description>
 
